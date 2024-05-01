@@ -19,3 +19,6 @@ spec:
       name: kiali
     grafana:
       enabled: true
+  gateways:
+    openshiftRoute:
+      enabled: true
